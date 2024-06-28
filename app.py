@@ -55,3 +55,5 @@ if st.button('Predict Probability'):
     win = result[0][1]
     st.header(batting_team + "- " + str(round(win*100)) + "%")
     st.header(bowling_team + "- " + str(round(loss*100)) + "%")
+
+st.header('Created By Ashish Kumar')
