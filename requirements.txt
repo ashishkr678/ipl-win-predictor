@@ -1,9 +1,5 @@
-python
 streamlit
-pickle
+scikit-learn
 pandas
 numpy
-sklearn
-matplotlib
-fastapi
-uvicorn
+pickle
